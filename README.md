@@ -6,3 +6,5 @@ CVRF was created to fill a major gap in vulnerability standardization: the lack 
 CVRF replaces the many nonstandard reporting formats previously in use, thus speeding up information exchange and processing.
 
 http://www.icasi.org/cvrf
+
+New development of CVRF will be tracked and documented at: https://cvrf.github.io/
